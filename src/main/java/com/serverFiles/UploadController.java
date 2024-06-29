@@ -1,4 +1,4 @@
-package com.example.githup_files.serverFiles;
+package com.serverFiles;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

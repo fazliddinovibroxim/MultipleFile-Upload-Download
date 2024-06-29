@@ -1,4 +1,4 @@
-package com.example.githup_files.serverFiles;
+package com.serverFiles;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
